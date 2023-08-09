@@ -1,14 +1,31 @@
-{
-    "id": "2000001",
-    "cmts": "CBR8",
-    "ifStartConf": [
-        "interface cable2/0/0",
-        "  shutdown",
-        "exit"
-    ],
-    "contStartConf": [
-        "controller integrated cable 2/0/0",
-        "  shutdown",
-        "exit"
-    ]
-}
+[   
+    {
+        "id": "2000001",
+        "cmts": "CBR8",
+        "ifStartConf": [
+            "interface cable2/0/0",
+            "  shutdown",
+            "exit"
+        ],
+        "contStartConf": [
+            "controller integrated cable 2/0/0",
+            "  shutdown",
+            "exit"
+        ]
+    },
+    {
+        "id": "2000002",
+        "cmts": "CBR8",
+        "ifStartConf": [
+            "interface cable2/0/1",
+            "  shutdown",
+            "exit"
+        ],
+        "contStartConf": [
+            "controller integrated cable 2/0/1",
+            "  shutdown",
+            "exit"
+        ]
+    }
+]
+
