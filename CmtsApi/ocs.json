@@ -218,7 +218,7 @@
       "dsConn": "7",
       "usConnA": 14,
       "usConnB": 15,
-      "description": "14758",
+      "description": ["14758"],
       "usDescA": "14758_P13",
       "usDescB": "14758_P46",
       "verifCommands": "show cable modem summary Cable2/0/7 total\nshow cable mac-domain Cable2/0/7 rcc\nshow cable mac-domain Cable2/0/7 cgd\nshow controllers Cable2/0/7 upstream | include Frequency\nshow controllers Cable2/0/7 downstream | include Frequency\nshow cable modem Cable2/0/7 partial-mode\n",
