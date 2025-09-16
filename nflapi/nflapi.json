@@ -178,7 +178,7 @@
     },
     { 
         "nombre": "Falcons", 
-        "puntaje": 0, 
+        "puntaje": 10, 
         "division": "NFC South", 
         "participante": "Juan Ricardo", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/ATL"
