@@ -346,6 +346,118 @@
         "local": "Ravens",
         "fecha": "2025/09/22",
         "hora": "7:15 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Seahawks",
+        "local": "Cardinals",
+        "fecha": "2025/09/25",
+        "hora": "7:15 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Vikings",
+        "local": "Steelers",
+        "fecha": "2025/09/28",
+        "hora": "8:30 A.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Commanders",
+        "local": "Falcons",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Chargers",
+        "local": "Giants",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Titans",
+        "local": "Texans",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Eagles",
+        "local": "Buccaneers",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Panthers",
+        "local": "Patriots",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Saints",
+        "local": "Bills",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Browns",
+        "local": "Lions",
+        "fecha": "2025/09/28",
+        "hora": "12:00 M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Jaguars",
+        "local": "49ers",
+        "fecha": "2025/09/28",
+        "hora": "3:05 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Colts",
+        "local": "Rams",
+        "fecha": "2025/09/28",
+        "hora": "3:05 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Bears",
+        "local": "Riders",
+        "fecha": "2025/09/28",
+        "hora": "3:05 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Ravens",
+        "local": "Chiefs",
+        "fecha": "2025/09/28",
+        "hora": "3:05 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Packers",
+        "local": "Cowboys",
+        "fecha": "2025/09/28",
+        "hora": "7:20 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Jets",
+        "local": "Dolphins",
+        "fecha": "2025/09/29",
+        "hora": "6:15 P.M."
+    },
+    {
+        "semana": "4",
+        "visitante": "Bengals",
+        "local": "Broncos",
+        "fecha": "2025/09/29",
+        "hora": "7:15 P.M."
     }
   ]
 }
