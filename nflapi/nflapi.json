@@ -9,20 +9,23 @@
   ],
   "equipos": [
     {
-      "nombre": "Bills",
-      "puntaje": 10,
-      "division": "AFC East",
-      "participante": "Argemiro",
-      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BUF"
+        "id": "0",
+        "nombre": "Bills",
+        "puntaje": 10,
+        "division": "AFC East",
+        "participante": "Argemiro",
+        "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BUF"
     },
     {
-      "nombre": "Dolphins",
-      "puntaje": 0,
-      "division": "AFC East",
-      "participante": "Tomás",
-      "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/MIA"
+        "id": "1",
+        "nombre": "Dolphins",
+        "puntaje": 0,
+        "division": "AFC East",
+        "participante": "Tomás",
+        "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/MIA"
     },
     { 
+        "id": "2",
         "nombre": "Patriots", 
         "puntaje": 0, 
         "division": "AFC East", 
@@ -30,6 +33,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NE"
     },
     { 
+        "id": "3",
         "nombre": "Jets", 
         "puntaje": 0, 
         "division": "AFC East", 
@@ -37,6 +41,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NYJ"
     },
     { 
+        "id": "4",
         "nombre": "Ravens", 
         "puntaje": 10, 
         "division": "AFC North", 
@@ -44,6 +49,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BAL"
     },
     { 
+        "id": "5",
         "nombre": "Bengals", 
         "puntaje": 10, 
         "division": "AFC North", 
@@ -51,6 +57,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CIN"
     },
     { 
+        "id": "6",
         "nombre": "Browns", 
         "puntaje": 0, 
         "division": "AFC North", 
@@ -58,6 +65,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CLE"
     },
     { 
+        "id": "7",
         "nombre": "Steelers", 
         "puntaje": 0, 
         "division": "AFC North", 
@@ -65,6 +73,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PIT"
     },
     { 
+        "id": "8",
         "nombre": "Texans", 
         "puntaje": 0, 
         "division": "AFC South", 
@@ -72,6 +81,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/HOU"
     },
     { 
+        "id": "9",
         "nombre": "Colts", 
         "puntaje": 10, 
         "division": "AFC South", 
@@ -79,6 +89,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/IND"
     },
     { 
+        "id": "10",
         "nombre": "Jaguars", 
         "puntaje": 0, 
         "division": "AFC South", 
@@ -86,6 +97,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/JAX"
     },
     { 
+        "id": "11",
         "nombre": "Titans", 
         "puntaje": 0, 
         "division": "AFC South", 
@@ -93,6 +105,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/TEN"
     },
     { 
+        "id": "12",
         "nombre": "Broncos", 
         "puntaje": 0, 
         "division": "AFC West", 
@@ -100,6 +113,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/DEN"
     },
     { 
+        "id": "13",
         "nombre": "Chiefs", 
         "puntaje": 0, 
         "division": "AFC West", 
@@ -107,6 +121,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/KC"
     },
     { 
+        "id": "14",
         "nombre": "Raiders", 
         "puntaje": 0, 
         "division": "AFC West", 
@@ -114,6 +129,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LV"
     },
     { 
+        "id": "15",
         "nombre": "Chargers", 
         "puntaje": 10, 
         "division": "AFC West", 
@@ -121,6 +137,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LAC"
     },
     { 
+        "id": "16",
         "nombre": "Cowboys", 
         "puntaje": 10, 
         "division": "NFC East", 
@@ -128,6 +145,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/DAL"
     },
     { 
+        "id": "17",
         "nombre": "Giants", 
         "puntaje": 0, 
         "division": "NFC East", 
@@ -135,6 +153,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NYG"
     },
     { 
+        "id": "18",
         "nombre": "Eagles", 
         "puntaje": 10, 
         "division": "NFC East", 
@@ -142,6 +161,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PHI"
     },
     { 
+        "id": "19",
         "nombre": "Commanders", 
         "puntaje": 0, 
         "division": "NFC East", 
@@ -149,6 +169,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/WAS"
     },
     { 
+        "id": "20",
         "nombre": "Bears", 
         "puntaje": 0, 
         "division": "NFC North", 
@@ -156,6 +177,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CHI"
     },
     { 
+        "id": "21",
         "nombre": "Lions", 
         "puntaje": 10, 
         "division": "NFC North", 
@@ -163,6 +185,7 @@
         "logo": "https://static.www.nfl.com/h_16,w_16,q_auto,f_auto,dpr_2.0/league/api/clubs/logos/DET"
     },
     { 
+        "id": "22",
         "nombre": "Packers", 
         "puntaje": 10, 
         "division": "NFC North", 
@@ -170,6 +193,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/GB"
     },
     { 
+        "id": "23",
         "nombre": "Vikings", 
         "puntaje": 0, 
         "division": "NFC North", 
@@ -177,6 +201,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/MIN"
     },
     { 
+        "id": "24",
         "nombre": "Falcons", 
         "puntaje": 10, 
         "division": "NFC South", 
@@ -184,6 +209,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/ATL"
     },
     { 
+        "id": "25",
         "nombre": "Panthers", 
         "puntaje": 0, 
         "division": "NFC South", 
@@ -191,6 +217,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CAR"
     },
     { 
+        "id": "26",
         "nombre": "Saints", 
         "puntaje": 0, 
         "division": "NFC South", 
@@ -198,6 +225,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/NO"
     },
     { 
+        "id": "27",
         "nombre": "Buccaneers", 
         "puntaje": 10, 
         "division": "NFC South", 
@@ -205,6 +233,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/TB"
     },
     { 
+        "id": "28",
         "nombre": "Cardinals", 
         "puntaje": 0, 
         "division": "NFC West", 
@@ -212,6 +241,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/ARI"
     },
     { 
+        "id": "29",
         "nombre": "Rams", 
         "puntaje": 10, 
         "division": "NFC West", 
@@ -219,6 +249,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LA"
     },
     { 
+        "id": "30",
         "nombre": "49ers", 
         "puntaje": 10, 
         "division": "NFC West", 
@@ -226,6 +257,7 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SF"
     },
     { 
+        "id": "31",
         "nombre": "Seahawks", 
         "puntaje": 10, 
         "division": "NFC West", 
