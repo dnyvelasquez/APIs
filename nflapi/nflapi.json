@@ -236,6 +236,7 @@
   ],
   "juegos": [
     {
+        "id": "32",
         "semana": "actual",
         "visitante": "Dolphins",
         "local": "Bills",
@@ -243,6 +244,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "33",
         "semana": "actual",
         "visitante": "Vikings",
         "local": "Bengals",
@@ -250,6 +252,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "34",
         "semana": "actual",
         "visitante": "Texans",
         "local": "Jaguars",
@@ -257,6 +260,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "35",
         "semana": "actual",
         "visitante": "Titans",
         "local": "Colts",
@@ -264,6 +268,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "36",
         "semana": "actual",
         "visitante": "Raiders",
         "local": "Commanders",
@@ -271,6 +276,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "37",
         "semana": "actual",
         "visitante": "Rams",
         "local": "Eagles",
@@ -278,6 +284,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "38",
         "semana": "actual",
         "visitante": "Falcons",
         "local": "Panthers",
@@ -285,6 +292,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "39",
         "semana": "actual",
         "visitante": "Steelers",
         "local": "Patriots",
@@ -292,6 +300,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "40",
         "semana": "actual",
         "visitante": "Packers",
         "local": "Browns",
@@ -299,6 +308,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "41",
         "semana": "actual",
         "visitante": "Jets",
         "local": "Buccaneers",
@@ -306,6 +316,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "42",
         "semana": "actual",
         "visitante": "Broncos",
         "local": "Chargers",
@@ -313,6 +324,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "43",
         "semana": "actual",
         "visitante": "Saints",
         "local": "Seahawks",
@@ -320,6 +332,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "44",
         "semana": "actual",
         "visitante": "Cowboys",
         "local": "Bears",
@@ -327,6 +340,7 @@
         "hora": "3:25 P.M."
     },
     {
+        "id": "45",
         "semana": "actual",
         "visitante": "Cardinals",
         "local": "49ers",
@@ -334,6 +348,7 @@
         "hora": "3:25 P.M."
     },
     {
+        "id": "46",
         "semana": "actual",
         "visitante": "Chiefs",
         "local": "Giants",
@@ -341,6 +356,7 @@
         "hora": "7:20 P.M."
     },
     {
+        "id": "47",
         "semana": "actual",
         "visitante": "Lions",
         "local": "Ravens",
@@ -348,6 +364,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "48",
         "semana": "4",
         "visitante": "Seahawks",
         "local": "Cardinals",
@@ -355,6 +372,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "49",
         "semana": "4",
         "visitante": "Vikings",
         "local": "Steelers",
@@ -362,6 +380,7 @@
         "hora": "8:30 A.M."
     },
     {
+        "id": "50",
         "semana": "4",
         "visitante": "Commanders",
         "local": "Falcons",
@@ -369,6 +388,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "51",
         "semana": "4",
         "visitante": "Chargers",
         "local": "Giants",
@@ -376,6 +396,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "52",
         "semana": "4",
         "visitante": "Titans",
         "local": "Texans",
@@ -383,6 +404,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "53",
         "semana": "4",
         "visitante": "Eagles",
         "local": "Buccaneers",
@@ -390,6 +412,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "54",
         "semana": "4",
         "visitante": "Panthers",
         "local": "Patriots",
@@ -397,6 +420,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "55",
         "semana": "4",
         "visitante": "Saints",
         "local": "Bills",
@@ -404,6 +428,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "56",
         "semana": "4",
         "visitante": "Browns",
         "local": "Lions",
@@ -411,6 +436,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "57",
         "semana": "4",
         "visitante": "Jaguars",
         "local": "49ers",
@@ -418,6 +444,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "58",
         "semana": "4",
         "visitante": "Colts",
         "local": "Rams",
@@ -425,6 +452,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "59",
         "semana": "4",
         "visitante": "Bears",
         "local": "Riders",
@@ -432,6 +460,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "60",
         "semana": "4",
         "visitante": "Ravens",
         "local": "Chiefs",
@@ -439,6 +468,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "61",
         "semana": "4",
         "visitante": "Packers",
         "local": "Cowboys",
@@ -446,6 +476,7 @@
         "hora": "7:20 P.M."
     },
     {
+        "id": "62",
         "semana": "4",
         "visitante": "Jets",
         "local": "Dolphins",
@@ -453,6 +484,7 @@
         "hora": "6:15 P.M."
     },
     {
+        "id": "63",
         "semana": "4",
         "visitante": "Bengals",
         "local": "Broncos",
@@ -460,6 +492,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "64",
         "semana": "5",
         "visitante": "49ers",
         "local": "Rams",
@@ -467,6 +500,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "65",
         "semana": "5",
         "visitante": "Vikings",
         "local": "Browns",
@@ -474,6 +508,7 @@
         "hora": "8:30 A.M."
     },
     {
+        "id": "66",
         "semana": "5",
         "visitante": "Cowboys",
         "local": "Jets",
@@ -481,6 +516,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "67",
         "semana": "5",
         "visitante": "Giants",
         "local": "Saints",
@@ -488,6 +524,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "68",
         "semana": "5",
         "visitante": "Raiders",
         "local": "Colts",
@@ -495,6 +532,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "69",
         "semana": "5",
         "visitante": "Dolphins",
         "local": "Panthers",
@@ -502,6 +540,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "70",
         "semana": "5",
         "visitante": "Broncos",
         "local": "Eagles",
@@ -509,6 +548,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "71",
         "semana": "5",
         "visitante": "Texans",
         "local": "Ravens",
@@ -516,6 +556,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "72",
         "semana": "5",
         "visitante": "Titans",
         "local": "Cardinals",
@@ -523,6 +564,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "73",
         "semana": "5",
         "visitante": "Buccaneers",
         "local": "Seahawks",
@@ -530,6 +572,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "74",
         "semana": "5",
         "visitante": "Lions",
         "local": "Bengals",
@@ -537,6 +580,7 @@
         "hora": "3:25 P.M."
     },
     {
+        "id": "75",
         "semana": "5",
         "visitante": "Commanders",
         "local": "Chargers",
@@ -544,6 +588,7 @@
         "hora": "3:25 P.M."
     },
     {
+        "id": "76",
         "semana": "5",
         "visitante": "Patriots",
         "local": "Bills",
@@ -551,6 +596,7 @@
         "hora": "7:20 P.M."
     },
     {
+        "id": "77",
         "semana": "5",
         "visitante": "Chiefs",
         "local": "Jaguars",
@@ -558,6 +604,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "78",
         "semana": "6",
         "visitante": "Eagles",
         "local": "Giants",
@@ -565,6 +612,7 @@
         "hora": "7:15 P.M."
     },
     {
+        "id": "79",
         "semana": "6",
         "visitante": "Broncos",
         "local": "Jets",
@@ -572,6 +620,7 @@
         "hora": "8:30 A.M."
     },
     {
+        "id": "80",
         "semana": "6",
         "visitante": "49ers",
         "local": "Buccaneers",
@@ -579,6 +628,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "81",
         "semana": "6",
         "visitante": "Seahawks",
         "local": "Jaguars",
@@ -586,6 +636,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "82",
         "semana": "6",
         "visitante": "Chargers",
         "local": "Dolphins",
@@ -593,6 +644,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "83",
         "semana": "6",
         "visitante": "Rams",
         "local": "Ravens",
@@ -600,6 +652,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "84",
         "semana": "6",
         "visitante": "Colts",
         "local": "Cardinals",
@@ -607,6 +660,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "85",
         "semana": "6",
         "visitante": "Cowboys",
         "local": "Panthers",
@@ -614,6 +668,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "86",
         "semana": "6",
         "visitante": "Browns",
         "local": "Steelers",
@@ -621,6 +676,7 @@
         "hora": "12:00 M."
     },
     {
+        "id": "87",
         "semana": "6",
         "visitante": "Titans",
         "local": "Raiders",
@@ -628,6 +684,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "88",
         "semana": "6",
         "visitante": "Bengals",
         "local": "Packers",
@@ -635,6 +692,7 @@
         "hora": "3:05 P.M."
     },
     {
+        "id": "89",
         "semana": "6",
         "visitante": "Patriots",
         "local": "Saints",
@@ -642,6 +700,7 @@
         "hora": "3:25 P.M."
     },
     {
+        "id": "90",
         "semana": "6",
         "visitante": "Lions",
         "local": "Chiefs",
@@ -649,6 +708,7 @@
         "hora": "7:20 P.M."
     },
     {
+        "id": "91",
         "semana": "6",
         "visitante": "Bills",
         "local": "Falcons",
@@ -656,6 +716,7 @@
         "hora": "6:15 P.M."
     },
     {
+        "id": "92",
         "semana": "6",
         "visitante": "Bears",
         "local": "Commanders",
