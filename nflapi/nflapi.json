@@ -233,6 +233,22 @@
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SEA"
     }
     
+  ],
+  "juegos": [
+    {
+        "semana": "3",
+        "visitante": "Dolphins",
+        "local": "Bills",
+        "fecha": "2025/09/18",
+        "hora": "7:15 P.M."
+    },
+    {
+        "semana": "3",
+        "visitante": "Vikings",
+        "local": "Bengals",
+        "fecha": "2025/09/21",
+        "hora": "12:00 M."
+    }
   ]
 }
 
