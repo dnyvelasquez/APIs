@@ -1,11 +1,29 @@
 {
   "participantes": [
-    { "nombre": "Argemiro" },
-    { "nombre": "Tomás" },
-    { "nombre": "Nicolás" },
-    { "nombre": "Juan Ricardo" },
-    { "nombre": "Federico" },
-    { "nombre": "Daniel" }
+    { 
+        "id": "0",
+        "nombre": "Argemiro" 
+    },
+    { 
+        "id": "1",
+        "nombre": "Tomás" 
+    },
+    { 
+        "id": "2",
+        "nombre": "Nicolás" 
+    },
+    { 
+        "id": "3",
+        "nombre": "Juan Ricardo" 
+    },
+    { 
+        "id": "4",
+        "nombre": "Federico" 
+    },
+    { 
+        "id": "5",
+        "nombre": "Daniel" 
+    }
   ],
   "equipos": [
     {
