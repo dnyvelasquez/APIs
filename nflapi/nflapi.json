@@ -11,7 +11,7 @@
     {
         "id": "0",
         "nombre": "Bills",
-        "puntaje": 10,
+        "puntaje": 20,
         "division": "AFC East",
         "participante": "Argemiro",
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/BUF"
