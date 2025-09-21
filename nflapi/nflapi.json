@@ -85,7 +85,7 @@
     { 
         "id": "7",
         "nombre": "Steelers", 
-        "puntaje": 0, 
+        "puntaje": 10, 
         "division": "AFC North", 
         "participante": "Federico", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PIT"
@@ -101,7 +101,7 @@
     { 
         "id": "9",
         "nombre": "Colts", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "AFC South", 
         "participante": "Nicolás", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/IND"
@@ -109,7 +109,7 @@
     { 
         "id": "10",
         "nombre": "Jaguars", 
-        "puntaje": 0, 
+        "puntaje": 10, 
         "division": "AFC South", 
         "participante": "Argemiro", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/JAX"
@@ -149,7 +149,7 @@
     { 
         "id": "15",
         "nombre": "Chargers", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "AFC West", 
         "participante": "Daniel", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/LAC"
@@ -173,7 +173,7 @@
     { 
         "id": "18",
         "nombre": "Eagles", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "NFC East", 
         "participante": "Federico", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/PHI"
@@ -181,7 +181,7 @@
     { 
         "id": "19",
         "nombre": "Commanders", 
-        "puntaje": 0, 
+        "puntaje": 10, 
         "division": "NFC East", 
         "participante": "Daniel", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/WAS"
@@ -189,7 +189,7 @@
     { 
         "id": "20",
         "nombre": "Bears", 
-        "puntaje": 0, 
+        "puntaje": 10, 
         "division": "NFC North", 
         "participante": "Argemiro", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/CHI"
@@ -245,7 +245,7 @@
     { 
         "id": "27",
         "nombre": "Buccaneers", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "NFC South", 
         "participante": "Tomás", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/TB"
@@ -269,7 +269,7 @@
     { 
         "id": "30",
         "nombre": "49ers", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "NFC West", 
         "participante": "Nicolás", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SF"
@@ -277,7 +277,7 @@
     { 
         "id": "31",
         "nombre": "Seahawks", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "NFC West", 
         "participante": "Tomás", 
         "logo": "https://static.www.nfl.com/t_headshot_desktop/f_auto/league/api/clubs/logos/SEA"
