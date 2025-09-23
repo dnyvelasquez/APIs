@@ -197,7 +197,7 @@
     { 
         "id": "21",
         "nombre": "Lions", 
-        "puntaje": 10, 
+        "puntaje": 20, 
         "division": "NFC North", 
         "participante": "Daniel", 
         "logo": "https://static.www.nfl.com/h_16,w_16,q_auto,f_auto,dpr_2.0/league/api/clubs/logos/DET"
