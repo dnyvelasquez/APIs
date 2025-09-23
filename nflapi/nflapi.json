@@ -287,7 +287,7 @@
   "juegos": [
     {
         "id": "32",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Dolphins",
         "local": "Bills",
         "fecha": "2025/09/18",
@@ -295,7 +295,7 @@
     },
     {
         "id": "33",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Vikings",
         "local": "Bengals",
         "fecha": "2025/09/21",
@@ -303,7 +303,7 @@
     },
     {
         "id": "34",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Texans",
         "local": "Jaguars",
         "fecha": "2025/09/21",
@@ -311,7 +311,7 @@
     },
     {
         "id": "35",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Titans",
         "local": "Colts",
         "fecha": "2025/09/21",
@@ -319,7 +319,7 @@
     },
     {
         "id": "36",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Raiders",
         "local": "Commanders",
         "fecha": "2025/09/21",
@@ -327,7 +327,7 @@
     },
     {
         "id": "37",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Rams",
         "local": "Eagles",
         "fecha": "2025/09/21",
@@ -335,7 +335,7 @@
     },
     {
         "id": "38",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Falcons",
         "local": "Panthers",
         "fecha": "2025/09/21",
@@ -343,7 +343,7 @@
     },
     {
         "id": "39",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Steelers",
         "local": "Patriots",
         "fecha": "2025/09/21",
@@ -351,7 +351,7 @@
     },
     {
         "id": "40",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Packers",
         "local": "Browns",
         "fecha": "2025/09/21",
@@ -359,7 +359,7 @@
     },
     {
         "id": "41",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Jets",
         "local": "Buccaneers",
         "fecha": "2025/09/21",
@@ -367,7 +367,7 @@
     },
     {
         "id": "42",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Broncos",
         "local": "Chargers",
         "fecha": "2025/09/21",
@@ -375,7 +375,7 @@
     },
     {
         "id": "43",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Saints",
         "local": "Seahawks",
         "fecha": "2025/09/21",
@@ -383,7 +383,7 @@
     },
     {
         "id": "44",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Cowboys",
         "local": "Bears",
         "fecha": "2025/09/21",
@@ -391,7 +391,7 @@
     },
     {
         "id": "45",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Cardinals",
         "local": "49ers",
         "fecha": "2025/09/21",
@@ -399,7 +399,7 @@
     },
     {
         "id": "46",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Chiefs",
         "local": "Giants",
         "fecha": "2025/09/21",
@@ -407,7 +407,7 @@
     },
     {
         "id": "47",
-        "semana": "actual",
+        "semana": "3",
         "visitante": "Lions",
         "local": "Ravens",
         "fecha": "2025/09/22",
@@ -415,7 +415,7 @@
     },
     {
         "id": "48",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Seahawks",
         "local": "Cardinals",
         "fecha": "2025/09/25",
@@ -423,7 +423,7 @@
     },
     {
         "id": "49",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Vikings",
         "local": "Steelers",
         "fecha": "2025/09/28",
@@ -431,7 +431,7 @@
     },
     {
         "id": "50",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Commanders",
         "local": "Falcons",
         "fecha": "2025/09/28",
@@ -439,7 +439,7 @@
     },
     {
         "id": "51",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Chargers",
         "local": "Giants",
         "fecha": "2025/09/28",
@@ -447,7 +447,7 @@
     },
     {
         "id": "52",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Titans",
         "local": "Texans",
         "fecha": "2025/09/28",
@@ -455,7 +455,7 @@
     },
     {
         "id": "53",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Eagles",
         "local": "Buccaneers",
         "fecha": "2025/09/28",
@@ -463,7 +463,7 @@
     },
     {
         "id": "54",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Panthers",
         "local": "Patriots",
         "fecha": "2025/09/28",
@@ -471,7 +471,7 @@
     },
     {
         "id": "55",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Saints",
         "local": "Bills",
         "fecha": "2025/09/28",
@@ -479,7 +479,7 @@
     },
     {
         "id": "56",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Browns",
         "local": "Lions",
         "fecha": "2025/09/28",
@@ -487,7 +487,7 @@
     },
     {
         "id": "57",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Jaguars",
         "local": "49ers",
         "fecha": "2025/09/28",
@@ -495,7 +495,7 @@
     },
     {
         "id": "58",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Colts",
         "local": "Rams",
         "fecha": "2025/09/28",
@@ -503,7 +503,7 @@
     },
     {
         "id": "59",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Bears",
         "local": "Riders",
         "fecha": "2025/09/28",
@@ -511,7 +511,7 @@
     },
     {
         "id": "60",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Ravens",
         "local": "Chiefs",
         "fecha": "2025/09/28",
@@ -519,7 +519,7 @@
     },
     {
         "id": "61",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Packers",
         "local": "Cowboys",
         "fecha": "2025/09/28",
@@ -527,7 +527,7 @@
     },
     {
         "id": "62",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Jets",
         "local": "Dolphins",
         "fecha": "2025/09/29",
@@ -535,7 +535,7 @@
     },
     {
         "id": "63",
-        "semana": "4",
+        "semana": "actual",
         "visitante": "Bengals",
         "local": "Broncos",
         "fecha": "2025/09/29",
